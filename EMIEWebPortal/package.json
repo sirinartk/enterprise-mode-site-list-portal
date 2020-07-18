@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/MicrosoftEdge/enterprise-mode-site-list-portal#readme",
   "dependencies": {
-    "alasql": "~0.3.0",
+    "alasql": "~0.6.0",
     "angular": "~1.5.0",
     "angular-animate": "~1.5.0",
     "angular-disable-all": "pleerock/angular-disable-all",
@@ -35,6 +35,6 @@
     "chartnew.js": "~3.9.0",
     "jquery": "~1.11.0",
     "ngstorage": "~0.3.11",
-    "xlsx": "~0.9.4"
+    "xlsx": "~0.16.0"
   }
 }
